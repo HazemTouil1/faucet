@@ -18,7 +18,7 @@ function App() {
   }
 
   const chainParams = {
-    chainId: '404',
+    chainId: '0x194',
     chainName: 'Vero Chain',
     nativeCurrency: { name: 'Vero', symbol: 'VERO', decimals: 18 },
     rpcUrls: ['https://vero-rpc.publicnode.online'],
