@@ -18,7 +18,7 @@ function App() {
   }
 
   const chainParams = {
-    chainId: '0x328',
+    chainId: '404',
     chainName: 'Vero Chain',
     nativeCurrency: { name: 'Vero', symbol: 'VERO', decimals: 18 },
     rpcUrls: ['https://vero-rpc.publicnode.online'],
@@ -171,7 +171,7 @@ function App() {
             <div className="p-6 sm:p-8 flex-1 overflow-y-auto">
               <div className="flex items-center justify-between">
                 <h1 className="text-2xl sm:text-3xl font-semibold">Vero Faucet</h1>
-                <span className="rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-3 py-1 text-xs sm:text-sm">ChainId 808</span>
+                <span className="rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-3 py-1 text-xs sm:text-sm">ChainId 404</span>
               </div>
               <p className="mt-2 text-sm text-white/70">Official Verochain faucet for test VERO.</p>
 
