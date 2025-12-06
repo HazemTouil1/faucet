@@ -241,7 +241,7 @@ function App() {
                 </div>
                 <div className="rounded-xl border border-white/10 bg-white/5 p-4">
                   <div className="text-sm text-white/70">Chain</div>
-                  <div className="mt-1 text-lg">QBFT / 808</div>
+                  <div className="mt-1 text-lg">QBFT / 404</div>
                 </div>
                 {connected && (
                   <div className="rounded-xl border border-white/10 bg-white/5 p-4">
